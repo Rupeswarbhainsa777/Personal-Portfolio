@@ -201,7 +201,7 @@ textarea{
     display: inline-flex;
     align-items: center;
     column-gap: 1.25rem;
-    color: var(--text-color);
+    color: var(--title-color);
     font-weight: var(--font-bold);
 
 }
@@ -591,7 +591,7 @@ textarea{
     background-image: url(img/shape-3.png);
     background-size: cover;
 }
-.services-subtitle{
+.services-title{
     font-size: var(--h3-font-size);
     margin-block: 4rem 1rem;
 
