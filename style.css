@@ -831,8 +831,8 @@ textarea{
 
 .contact{
     padding-bottom: 14rem;
-    margin-left: 5.5rem;
-    margin-right: 4.5rem  ;
+    /* margin-left: 5.5rem;
+    margin-right: 4.5rem  ; */
    /* background-color: var(--shadow-color);                still isssu */
   
 }
@@ -919,10 +919,11 @@ textarea{
     gap: 1rem 2rem;
 }
 .message{
-    position: absolute;
+    /* position: absolute; */
     bottom: 0.75rem;
     right: 1.25rem;
     font-weight: var(--font-medium);
+    
 }
 .color-red {
     color: hsl(5,69%,51%);
